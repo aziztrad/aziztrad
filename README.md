@@ -14,6 +14,14 @@
 
 ###
 
+<h2 align="left">📂 My Projects</h2>
+<ul>
+  <li><a href="https://github.com/your-repo/library-management-system">Library Management System</a> - A JavaFX-based application with CRUD operations and user authentication.</li>
+  <li><a href="https://github.com/your-repo/ecommerce-platform">E-commerce Platform</a> - A Symfony-based project with advanced user and order management features.</li>
+</ul>
+
+###
+
 <h2 align="left">💻 I code with</h2>
 
 ###
@@ -46,7 +54,7 @@
 
 <h2 align="left">🌍 My socials</h2>
 <p align="left">Feel free to connect with me on LinkedIn or check out my latest work!</p>
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aziztrad/" target="_blank">
