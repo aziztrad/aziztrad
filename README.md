@@ -16,8 +16,7 @@
 
 <h2 align="left">📂 My Projects</h2>
 <ul>
-  <li><a href="https://github.com/your-repo/library-management-system">Library Management System</a> - A JavaFX-based application with CRUD operations and user authentication.</li>
-  <li><a href="https://github.com/your-repo/ecommerce-platform">E-commerce Platform</a> - A Symfony-based project with advanced user and order management features.</li>
+  <li><a href="https://github.com/aziztrad/game-shop-project-react">Game Shop Project (React)</a> - A modern e-commerce platform for buying video games online, built with React.</li>
 </ul>
 
 ###
