@@ -17,6 +17,7 @@
 <h2 align="left">📂 My Projects</h2>
 <ul>
   <li><a href="https://github.com/aziztrad/game-shop-project-react">Game Shop Project (React)</a> - A modern e-commerce platform for buying video games online, built with React.</li>
+  <li><a href="https://github.com/aziztrad/temperature-humidity-detection-app-project">Temperature and Humidity Detection App</a> - An application that detects temperature and humidity in real-time and displays the data.</li>
 </ul>
 
 ###
