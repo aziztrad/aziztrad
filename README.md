@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Crafting clean code since 2021<br>📚 I'm currently learning Spring Boot, Angular, and Docker to expand my full-stack development skills.<br>🎯 Goals: To become a skilled full-stack developer who builds scalable and impactful applications.<br>🎲 Fun fact: I believe every coder secretly dreams of becoming an AI overlord someday. 😉</p>
+<p align="left">💻 Crafting clean code since 2021<br>📚 I'm currently learning Spring Boot, Angular, and Docker to expand my full-stack development skills.<br>🎯 Goals: To become a skilled full-stack developer who builds scalable and impactful applications.<br>🎲 Fun fact: I believe every coder secretly dreams of becoming an AI overlord someday. 😉</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 I code with</h2>
 
 ###
 
@@ -44,8 +44,8 @@
 
 ###
 
-<h2 align="left">My socials</h2>
-
+<h2 align="left">🌍 My socials</h2>
+<p align="left">Feel free to connect with me on LinkedIn or check out my latest work!</p>
 ###
 
 <div align="left">
